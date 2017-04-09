@@ -1,0 +1,9 @@
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\bin\Release\netcoreapp1.1\Contracts_Module_Sample.deps.json
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\bin\Release\netcoreapp1.1\Contracts_Module_Sample.runtimeconfig.json
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\bin\Release\netcoreapp1.1\Contracts_Module_Sample.runtimeconfig.dev.json
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\bin\Release\netcoreapp1.1\Contracts_Module_Sample.dll
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\bin\Release\netcoreapp1.1\Contracts_Module_Sample.pdb
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\obj\Release\netcoreapp1.1\Contracts_Module_Sample.csprojResolveAssemblyReference.cache
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\obj\Release\netcoreapp1.1\Contracts_Module_Sample.AssemblyInfo.cs
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\obj\Release\netcoreapp1.1\Contracts_Module_Sample.dll
+C:\Users\Днс\documents\visual studio 2017\Projects\Contracts_Module_Sample\Contracts_Module_Sample\obj\Release\netcoreapp1.1\Contracts_Module_Sample.pdb

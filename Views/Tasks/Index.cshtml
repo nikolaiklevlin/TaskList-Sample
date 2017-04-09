@@ -1,0 +1,49 @@
+@model IEnumerable<Contracts_Module_Sample.Models.CMSTask>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <br>
+    <a asp-action="Create">New Task</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IsComleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsComleted)
+            </td>
+            @if (item.IsComleted)
+            {
+                <td style="text-decoration:line-through; font-style: italic">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+            }
+            else
+            {
+                <td style="font-style: italic">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+            }
+            <td>
+                <span id="TaskEditAction"><a asp-action="Edit" asp-route-id="@item.ID">Comleted</a></span> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
